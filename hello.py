@@ -1,3 +1,9 @@
 print('Hello Uncle')
-print('Hello Somchai')
-print('Hello Calee')
+
+print('Hello Chalee')
+
+print('Hello Githup")
+
+friend = {'Loong,Pa lek,Pee Dang,Pada'}
+
+print(friend{0})
